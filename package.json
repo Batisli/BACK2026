@@ -1,0 +1,29 @@
+{
+  "name": "back2026",
+  "version": "1.0.0",
+  "description": "projeto para aprender API com MVC",
+  "keywords": [
+    "mcv"
+  ],
+  "homepage": "https://github.com/Batisli/BACK2026#readme",
+  "bugs": {
+    "url": "https://github.com/Batisli/BACK2026/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Batisli/BACK2026.git"
+  },
+  "license": "ISC",
+  "author": "Batisli",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "3.1.14"
+  }
+}
